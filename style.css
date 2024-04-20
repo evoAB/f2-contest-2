@@ -1,0 +1,26 @@
+*{
+    background-color: black;
+    color: aliceblue;
+    padding: 10px;
+}
+
+button{
+    padding: 10px 20px;
+    background-color: white;
+    color: black;
+}
+#clr{
+    background-color: black;
+    color: white;
+    border: 0.1px solid;
+}
+
+.output{
+    margin: 0px;
+    padding: 0px;
+    text-underline-offset: 10px;
+}
+
+.error-window{
+    color: red;
+}
