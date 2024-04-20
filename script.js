@@ -30,4 +30,5 @@ decbtn.addEventListener("click", () => {
 clrbtn.addEventListener("click", ()=>{
     count=0;
     output.innerHTML=`<u>Your Current Count is : ${count}</u>`
+    errordis.innerText="";
 })
